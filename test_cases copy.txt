@@ -1,0 +1,20 @@
+Encrypt all sensitive data stored on company servers.
+Conduct cybersecurity training for all new hires within 1 week of joining.
+Ensure all admin accounts require multi-factor authentication.
+Maintain regular backups of system data and test restore procedures monthly.
+Log all system events and retain them as per company policy.
+Access to internal network resources must be restricted to authorized users only.
+A vulnerability management plan should be created and maintained.
+Secure logon procedures must be enforced for all critical systems.
+Suppliers must be evaluated for cybersecurity risks before engagement.
+Users must not reuse passwords across multiple systems.
+Security configurations of systems must be maintained and reviewed.
+Apply software updates to all systems within 30 days.
+Restrict access to data based on role.
+Evaluate service providers for compliance annually.
+The use of secret authentication information must be controlled.
+Change management procedures should be implemented for all system modifications.
+Legal and regulatory cybersecurity requirements must be understood and managed.
+Roles and responsibilities for managing cybersecurity risk must be clearly communicated.
+Coffee must be served in reusable mugs only. 
+Weekly table tennis tournaments should be held to boost morale. 

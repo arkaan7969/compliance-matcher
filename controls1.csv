@@ -1,0 +1,7 @@
+id,framework,description
+6.3,CIS v8,"Require multi-factor authentication (MFA) for any administrative-level access, including remote login, to ensure secure user verification and prevent unauthorized access."
+8.2,CIS v8,"Enable and manage security event logging for all critical systems. Logs should be reviewed regularly and retained for auditing and incident investigation."
+PR.AC-01,NIST CSF,"Identities and credentials are issued, managed, verified, revoked, and audited for all authorized users, devices, and processes."
+PR.AC-07,NIST CSF,"Users and systems are authenticated before being granted access, using mechanisms like passwords, biometrics, or MFA, proportional to the risk level."
+A.9.1.2,ISO 27001,"Access to network services should be restricted based on role and business requirements. Role-based access control should be enforced."
+A.12.4.1,ISO 27001,"Event logs capturing user activities, security exceptions, and system faults must be generated and retained to support security investigations and compliance audits."
